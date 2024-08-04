@@ -1,4 +1,4 @@
-# Customer-Segmentation
+# Customer Segmentation
 
 This repository contains the code for my portfolio project:
 
